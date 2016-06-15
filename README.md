@@ -1,2 +1,3 @@
-# HeySiri
-OS X -I mean macOS- application that lets you summon Siri with "Hey Siri"
+# HeySiriMac
+
+Requires macOS 10.12 Sierra. Uses NSSpeechRecognizer dictation.
